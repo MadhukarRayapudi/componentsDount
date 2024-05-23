@@ -1,0 +1,31 @@
+/* Write your code here. */
+.each-faq-container {
+  border: 1px solid #d7dae6;
+  width: 100%;
+  margin-bottom: 14px;
+  padding: 14px;
+  border-radius: 8px;
+  list-style-type: none;
+}
+
+.question-and-btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.show-hide-btn {
+  background-color: transparent;
+  border: 0;
+}
+
+.question {
+  font-family: roboto;
+  font-size: 34px;
+  color: #52606d;
+}
+
+.answer {
+  font-family: roboto;
+  font-size: 24px;
+  color: #9aa5b1;
+}
